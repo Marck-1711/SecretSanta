@@ -9,3 +9,4 @@ My first mini Qt project. Secret Santa is a Christmas game to play with a group 
 
 # UI
 
+![UI](img/UI.png)
