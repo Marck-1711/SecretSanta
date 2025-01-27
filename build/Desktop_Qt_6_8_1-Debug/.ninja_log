@@ -1,0 +1,26 @@
+# ninja log v6
+6	23	1737901671070974771	example_autogen/timestamp	c2857a2d527cd2fb
+23	2593	1737901671087974836	CMakeFiles/example.dir/mainwindow.cpp.o	207968793d7464b9
+353	385	1737897483274680231	CMakeFiles/example.dir/example_autogen/EWIEGA46WW/qrc_resources.cpp.o	701ca9dddf992d43
+19	28	1737839694347531766	/home/marco/Documents/MARCO/Projects/example/build/Desktop_Qt_6_8_1-Debug/example_autogen/EWIEGA46WW/qrc_resources.cpp	4790791c22a5fa1b
+6	23	1737901671070974771	example_autogen/mocs_compilation.cpp	c2857a2d527cd2fb
+2593	3074	1737901673657984783	example	3f867a8ac7634a4d
+19	28	1737839694347531766	example_autogen/EWIEGA46WW/qrc_resources.cpp	4790791c22a5fa1b
+327	2039	1737883890638552846	CMakeFiles/example.dir/smtpClient/src/mimeattachment.cpp.o	3667bebfdeb59afb
+6	23	1737901671070974771	/home/marco/Documents/MARCO/Projects/example/build/Desktop_Qt_6_8_1-Debug/example_autogen/timestamp	c2857a2d527cd2fb
+327	2307	1737883890638552846	CMakeFiles/example.dir/smtpClient/src/smtpclient.cpp.o	2e8837e945cb9f50
+385	2968	1737899627731926199	CMakeFiles/example.dir/example_autogen/mocs_compilation.cpp.o	4036f1525fb21027
+385	2402	1737899627731926199	CMakeFiles/example.dir/main.cpp.o	4ae28f3a068045b5
+6	23	1737901671070974771	/home/marco/Documents/MARCO/Projects/example/build/Desktop_Qt_6_8_1-Debug/example_autogen/mocs_compilation.cpp	c2857a2d527cd2fb
+4	205	1737936656753788594	build.ninja	6aa4caa175b38c5d
+3	357	1737937009180451980	SecretSanta_autogen/timestamp	5836dcb024a769e5
+3	357	1737937009180451980	SecretSanta_autogen/mocs_compilation.cpp	5836dcb024a769e5
+3	357	1737937009180451980	/home/marco/Documents/MARCO/Projects/example/build/Desktop_Qt_6_8_1-Debug/SecretSanta_autogen/timestamp	5836dcb024a769e5
+3	357	1737937009180451980	/home/marco/Documents/MARCO/Projects/example/build/Desktop_Qt_6_8_1-Debug/SecretSanta_autogen/mocs_compilation.cpp	5836dcb024a769e5
+360	382	1737937009213452074	SecretSanta_autogen/EWIEGA46WW/qrc_resources.cpp	5310eeed22a4c926
+360	382	1737937009213452074	/home/marco/Documents/MARCO/Projects/example/build/Desktop_Qt_6_8_1-Debug/SecretSanta_autogen/EWIEGA46WW/qrc_resources.cpp	5310eeed22a4c926
+383	414	1737937009217452086	CMakeFiles/SecretSanta.dir/SecretSanta_autogen/EWIEGA46WW/qrc_resources.cpp.o	a485f09fc4a226df
+382	2087	1737937009216452083	CMakeFiles/SecretSanta.dir/main.cpp.o	ef8ff252e8fa376d
+382	2117	1737937009216452083	CMakeFiles/SecretSanta.dir/SecretSanta_autogen/mocs_compilation.cpp.o	23297f5d59409fc3
+382	2910	1737937009217452086	CMakeFiles/SecretSanta.dir/mainwindow.cpp.o	bea2c658152cd1
+2910	3364	1737937011744459349	SecretSanta	35622af7e9d44d45

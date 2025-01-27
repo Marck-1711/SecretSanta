@@ -1,0 +1,9 @@
+/home/marco/Documents/MARCO/Projects/example/build/Desktop_Qt_6_8_1-Release/CMakeFiles/SecretSanta.dir
+/home/marco/Documents/MARCO/Projects/example/build/Desktop_Qt_6_8_1-Release/CMakeFiles/edit_cache.dir
+/home/marco/Documents/MARCO/Projects/example/build/Desktop_Qt_6_8_1-Release/CMakeFiles/rebuild_cache.dir
+/home/marco/Documents/MARCO/Projects/example/build/Desktop_Qt_6_8_1-Release/CMakeFiles/list_install_components.dir
+/home/marco/Documents/MARCO/Projects/example/build/Desktop_Qt_6_8_1-Release/CMakeFiles/install.dir
+/home/marco/Documents/MARCO/Projects/example/build/Desktop_Qt_6_8_1-Release/CMakeFiles/install/local.dir
+/home/marco/Documents/MARCO/Projects/example/build/Desktop_Qt_6_8_1-Release/CMakeFiles/install/strip.dir
+/home/marco/Documents/MARCO/Projects/example/build/Desktop_Qt_6_8_1-Release/CMakeFiles/SecretSanta_autogen_timestamp_deps.dir
+/home/marco/Documents/MARCO/Projects/example/build/Desktop_Qt_6_8_1-Release/CMakeFiles/SecretSanta_autogen.dir

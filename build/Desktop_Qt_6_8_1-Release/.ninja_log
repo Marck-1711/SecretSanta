@@ -1,0 +1,12 @@
+# ninja log v6
+3	481	1737937911364264105	SecretSanta_autogen/timestamp	5197099296a2381b
+3	481	1737937911364264105	SecretSanta_autogen/mocs_compilation.cpp	5197099296a2381b
+3	481	1737937911364264105	/home/marco/Documents/MARCO/Projects/example/build/Desktop_Qt_6_8_1-Release/SecretSanta_autogen/timestamp	5197099296a2381b
+3	481	1737937911364264105	/home/marco/Documents/MARCO/Projects/example/build/Desktop_Qt_6_8_1-Release/SecretSanta_autogen/mocs_compilation.cpp	5197099296a2381b
+483	512	1737937911412264344	SecretSanta_autogen/EWIEGA46WW/qrc_resources.cpp	397b76d1d871281d
+483	512	1737937911412264344	/home/marco/Documents/MARCO/Projects/example/build/Desktop_Qt_6_8_1-Release/SecretSanta_autogen/EWIEGA46WW/qrc_resources.cpp	397b76d1d871281d
+521	591	1737937911427264419	CMakeFiles/SecretSanta.dir/SecretSanta_autogen/EWIEGA46WW/qrc_resources.cpp.o	f2e3c1c0a828889b
+512	2448	1737937911418264374	CMakeFiles/SecretSanta.dir/SecretSanta_autogen/mocs_compilation.cpp.o	c41c39012ee5be2
+513	2590	1737937911419264379	CMakeFiles/SecretSanta.dir/main.cpp.o	b20d8a045e49c2b1
+517	3493	1737937911423264399	CMakeFiles/SecretSanta.dir/mainwindow.cpp.o	ebdaf106abd18f3e
+3493	3922	1737937914399279251	SecretSanta	7d04a8b60dcc8fab
